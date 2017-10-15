@@ -37,3 +37,11 @@ Choise and uncommented need UI library in `package.json`
 
  Install
  -------------------
+
+Clone repo in your directory
+
+> git clone https://github.com/Atlogex/ReactAxQuickstart.git .
+
+Install components (need NPM from Node.js)
+
+> npm i
