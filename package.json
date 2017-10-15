@@ -2,11 +2,11 @@
   "name": "React-aqs",
   "version": "0.1.0",
   "description": "Atlogex React Quich Start",
-  "main": "cmn.js",
+  "main": "main.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Atlogex/Project-A19.git"
+    "url": "git+https://github.com/Atlogex/ReactAxQuickstart"
   },
   "keywords": [
     "yiireact"
@@ -14,9 +14,9 @@
   "author": "Atlogex",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Atlogex/Project-A19/issues"
+    "url": "https://github.com/Atlogex/ReactAxQuickstart/issues"
   },
-  "homepage": "https://github.com/Atlogex/Project-A19#readme",
+  "homepage": "https://github.com/Atlogex/ReactAxQuickstart#readme",
   "dependencies": {
     "antd": "*",
     "react": "*",
