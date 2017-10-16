@@ -28,7 +28,7 @@ Generate build files helpless NPM (Node.js) and Webpack.
  UI Design
  -------------------
 
-Choise and uncommented need UI library in `package.json`
+Choise and uncomment need UI library in `package.json`, other ui library need will be remove.
 
  - Material UI
  - React MD
