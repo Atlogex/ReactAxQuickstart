@@ -6,7 +6,7 @@ React Quick Start [NPM+Webpack generate]
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/280px-React-icon.svg.png"></p>
 
 This is React Quick Start by [Atlogex](https://www.atlogex.com/).
-Generate build files helpless NPM (Node.js) and Webpack.
+Generate build files helpless NPM (Node.js) and Webpack. Read More about install react + babel + webpack in post [Run React app use NPM, Babel and Webpack 3](https://atlogex.com/firstrun-react-app/).
 
 
  Directory Structure
@@ -19,16 +19,16 @@ Generate build files helpless NPM (Node.js) and Webpack.
  Stack
  -------------------
 
-- React
-- Webpack
-- LESS/SCSS
-- Gulp `(maybe)`
+- [React](https://reactjs.org/)
+- [Webpack](https://webpack.js.org/)
+- [LESS](http://lesscss.org/) / [SCSS](https://sass-scss.ru/)
+- [Gulp](https://gulpjs.com/) `(maybe)`
 
 
  UI Design
  -------------------
 
-Choise and add UI library in `package.json` block 'dependencies'.
+Choise and add UI library in `package.json` block 'dependencies':
 
  - [Material UI](http://www.material-ui.com/)  <br/>
  ```"material-ui": "*",```
