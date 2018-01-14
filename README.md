@@ -34,7 +34,7 @@ Choise and add UI library in `package.json` block 'dependencies'.
  ```"material-ui": "*",```
  - [React MD](https://react-md.mlaursen.com/)  <br/>
  ```"react-md": "*",```
- - [Ant Design](https://developer.microsoft.com/en-us/fabric)  <br/>
+ - [Ant Design](https://ant.design/)  <br/>
  ```"antd-ui": "*",```
  - [Microsoft Fabric](https://developer.microsoft.com/en-us/fabric)  <br/>
  ```"office-ui-fabric-react": "*"```
