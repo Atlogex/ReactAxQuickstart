@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/Atlogex/ReactAxQuickstart#readme",
   "dependencies": {
-    /*"react-md", */
-    /*"material-ui",*/
-    /*"antd": "*",*/
     "react": "*",
     "react-dom": "*"
   },

@@ -28,12 +28,26 @@ Generate build files helpless NPM (Node.js) and Webpack.
  UI Design
  -------------------
 
-Choise and uncomment need UI library in `package.json`, other ui library need will be remove.
+Choise and add UI library in `package.json` block 'dependencies'.
 
- - Material UI
- - React MD
- - Ant Design
+ - [Material UI](http://www.material-ui.com/)  <br/>
+ ```"material-ui": "*",```
+ - [React MD](https://react-md.mlaursen.com/)  <br/>
+ ```"react-md": "*",```
+ - [Ant Design](https://developer.microsoft.com/en-us/fabric)  <br/>
+ ```"antd-ui": "*",```
+ - [Microsoft Fabric](https://developer.microsoft.com/en-us/fabric)  <br/>
+ ```"office-ui-fabric-react": "*"```
 
+
+Sample for use Material UI:
+```
+"dependencies": {
+    "material-ui": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+```
 
  Install
  -------------------
